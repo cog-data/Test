@@ -1,4 +1,7 @@
 # Test
 Test repository
 
-Et on modifie le Master depuis GitHub
+# A modification...
+
+# Another one !
+>>>>>>> b1
